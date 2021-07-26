@@ -1,2 +1,7 @@
 1_Basic/python_test.pkl
 1_Basic/python_workfile
+5_Neural_Network/mnist_test.h5
+6_CNN/6_Cat_Dog/test/*
+6_CNN/6_Cat_Dog/train/*
+6_CNN/6_Cat_Dog/validation/*
+8_RNN/word2vec.model
