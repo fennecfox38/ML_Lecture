@@ -57,6 +57,14 @@
         3. [CIFAR10 w/ Dropout, Batch Normalization, Kernel Regularizer (approx. 84%)](6_CNN/5_CIFAR10/3_Kernel_Regularization_84.ipynb)
         4. [CIFAR10 w/ Dropout, Batch Normalization, Kernel Regularizer, ImageDataGenerator (approx. 88%)](6_CNN/5_CIFAR10/4_ImageDataGenerator_88.ipynb)
     6. [Example: CatsVsDogs Dataset](6_CNN/6_Cat_Dog)
+        * [README](6_CNN/6_Cat_Dog/README.md)
+        0. [Split Data Set](6_CNN/6_Cat_Dog/0_Split_dataset.py)
+        1. [CNN_Train](6_CNN/6_Cat_Dog/1_CNN_Train.py)
+        2. [CNN_Test](6_CNN/6_Cat_Dog/2_CNN_Test.py)
+        3. [ImageGenerator_Train](6_CNN/6_Cat_Dog/3_ImageGen_Train.py)
+        4. [ImageGenerator_Test](6_CNN/6_Cat_Dog/4_ImageGen_Test.py)
+        5. [VGG16_Train](6_CNN/6_Cat_Dog/5_VGG16_Train.py)
+        6. [VGG16_Test](6_CNN/6_Cat_Dog/6_VGG16_Test.py)
 
 7. [Auto Encoder](7_AutoEncoder)
 
